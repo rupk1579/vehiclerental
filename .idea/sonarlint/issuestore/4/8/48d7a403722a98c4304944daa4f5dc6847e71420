@@ -1,0 +1,8 @@
+
+N
+java:S1602",Remove useless curly braces around statement(νΖ‚έψÿÿÿÿ8Ψ”Δ/
+H
+java:S1612",Replace this lambda with a method reference.(Γ¥„#8ΉΒ”Δ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ίθΊ8Ψ”Δ/
+S
+java:S2175"1A "List<Vehicle>" cannot contain a "VehicleLock".(»όΨόÿÿÿÿ8­Ό†•Δ/
